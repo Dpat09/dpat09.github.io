@@ -1,3 +1,25 @@
-.navbar.transparent.navbar-inverse .navbar-inner {
-  background: rgba(0, 0, 0, 0.4);
+/* The Following is from Ricardo Prieto */
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,600,700");
+@import url("https://fonts.googleapis.com/css?family=Catamaran:400,800");
+body {
+  background-color: #fdfaf5;
+  margin-bottom: 50px;
+}
+html,
+button,
+input,
+select,
+textarea {
+  font-family: "Montserrat", Helvetica, sans-serif;
+  color: #bbb;
+}
+h1 {
+  text-align: center;
+  margin: 30px 15px;
+}
+.zoom-area {
+  max-width: 490px;
+  margin: 30px auto 30px;
+  font-size: 19px;
+  text-align: center;
 }
