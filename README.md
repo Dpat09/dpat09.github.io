@@ -1,2 +1,4 @@
-# Simple Portfolio Website - under construction :) but you can see a mockup when you open it!
+# Simple Portfolio Website 
+
+Under construction :) but you can see a mockup when you open it!
 
