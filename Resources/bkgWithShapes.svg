@@ -1,0 +1,215 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1920 2160">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Web_1920_1);
+      }
+
+      .cls-2 {
+        fill: #ffe579;
+      }
+
+      .cls-3 {
+        fill: #79e0ff;
+      }
+
+      .cls-4 {
+        fill: #8879ff;
+      }
+
+      .cls-5 {
+        fill: #ff7979;
+      }
+
+      .cls-6 {
+        fill: #99ffde;
+      }
+
+      .cls-12, .cls-22, .cls-7 {
+        fill: #707070;
+      }
+
+      .cls-10, .cls-18, .cls-7 {
+        font-size: 11px;
+      }
+
+      .cls-10, .cls-12, .cls-18, .cls-7 {
+        font-family: OpenSans, Open Sans;
+      }
+
+      .cls-10, .cls-11, .cls-12, .cls-7 {
+        opacity: 0.5;
+      }
+
+      .cls-11, .cls-13, .cls-14, .cls-15, .cls-17, .cls-8 {
+        fill: none;
+      }
+
+      .cls-13, .cls-8 {
+        stroke: #c4c4c4;
+      }
+
+      .cls-14, .cls-15, .cls-8 {
+        stroke-width: 2px;
+      }
+
+      .cls-9 {
+        fill: #c4c4c4;
+      }
+
+      .cls-10, .cls-16, .cls-24 {
+        fill: #fff;
+      }
+
+      .cls-12 {
+        font-size: 12px;
+      }
+
+      .cls-14 {
+        stroke: #fff;
+      }
+
+      .cls-14, .cls-16 {
+        opacity: 0.718;
+      }
+
+      .cls-15 {
+        stroke: #ffd9d9;
+      }
+
+      .cls-18, .cls-23 {
+        fill: #ffd9d9;
+      }
+
+      .cls-19, .cls-20, .cls-21, .cls-22, .cls-23 {
+        stroke: none;
+      }
+
+      .cls-20 {
+        fill: rgba(114,209,237,0.65);
+      }
+
+      .cls-21 {
+        fill: rgba(221,106,106,0.65);
+      }
+
+      .cls-25 {
+        filter: url(#Mint_green_ellipse);
+      }
+
+      .cls-26 {
+        filter: url(#Red_ellipse);
+      }
+
+      .cls-27 {
+        filter: url(#Purple_triangle);
+      }
+
+      .cls-28 {
+        filter: url(#Light_blue_box);
+      }
+
+      .cls-29 {
+        filter: url(#Yellow_rhombus);
+      }
+    </style>
+    <filter id="Yellow_rhombus" x="737.83" y="2103.05" width="387.107" height="163.875" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="12.5" result="blur"/>
+      <feFlood flood-color="#ffe579"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Light_blue_box" x="350.277" y="890.692" width="277.447" height="277.447" filterUnits="userSpaceOnUse">
+      <feOffset dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-2"/>
+      <feFlood flood-color="#79e0ff"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Purple_triangle" x="1077.592" y="99.178" width="382.23" height="382.23" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-3"/>
+      <feFlood flood-color="#8879ff" flood-opacity="0.537"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Red_ellipse" x="1572" y="818" width="449" height="449" filterUnits="userSpaceOnUse">
+      <feOffset dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-4"/>
+      <feFlood flood-color="#ff7979"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Mint_green_ellipse" x="149" y="-496" width="718" height="718" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-5"/>
+      <feFlood flood-color="#99ffde"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Web_1920_1">
+      <rect width="1920" height="2160"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_1" data-name="Web 1920 – 1" class="cls-1">
+    <rect class="cls-24" width="1920" height="2160"/>
+    <g class="cls-29" transform="matrix(1, 0, 0, 1, 0, 0)">
+      <path id="Yellow_rhombus-2" data-name="Yellow rhombus" class="cls-2" d="M137.525,70.248H312.107L174.582,159.122H0Z" transform="translate(775.33 2067.3)"/>
+    </g>
+    <g class="cls-28" transform="matrix(1, 0, 0, 1, 0, 0)">
+      <g id="Light_blue_box-2" data-name="Light blue box" class="cls-3" transform="translate(479.49 914.69) rotate(40)">
+        <path class="cls-19" d="M0,0H154.345V154.345H0Z"/>
+        <path class="cls-20" d="M 0.149993896484375 0.149993896484375 L 0.149993896484375 154.1953277587891 L 154.1953277587891 154.1953277587891 L 154.1953277587891 0.149993896484375 L 0.149993896484375 0.149993896484375 M -1.52587890625e-05 -1.52587890625e-05 L 154.3453216552734 -1.52587890625e-05 L 154.3453216552734 154.3453216552734 L -1.52587890625e-05 154.3453216552734 L -1.52587890625e-05 -1.52587890625e-05 Z"/>
+      </g>
+    </g>
+    <g class="cls-27" transform="matrix(1, 0, 0, 1, 0, 0)">
+      <path id="Purple_triangle-2" data-name="Purple triangle" class="cls-4" d="M0,0,249.414,249.414H0Z" transform="translate(1107.59 215.56) rotate(-21)"/>
+    </g>
+    <g class="cls-26" transform="matrix(1, 0, 0, 1, 0, 0)">
+      <g id="Red_ellipse-2" data-name="Red ellipse" class="cls-5" transform="translate(1602 842)">
+        <path class="cls-19" d="M194.5,0C301.919,0,389,87.081,389,194.5S301.919,389,194.5,389,0,301.919,0,194.5,87.081,0,194.5,0Z"/>
+        <path class="cls-21" d="M 194.5 0.149993896484375 C 181.3135070800781 0.149993896484375 168.1353454589844 1.47845458984375 155.33154296875 4.0985107421875 C 142.8531951904297 6.651947021484375 130.5791625976562 10.46200561523438 118.8502502441406 15.42291259765625 C 107.3342590332031 20.29379272460938 96.22705078125 26.32254028320312 85.837158203125 33.34185791015625 C 75.54595947265625 40.29446411132812 65.86856079101562 48.27899169921875 57.07379150390625 57.07379150390625 C 48.27899169921875 65.86856079101562 40.29446411132812 75.54595947265625 33.34185791015625 85.837158203125 C 26.32254028320312 96.22705078125 20.29379272460938 107.3342590332031 15.42291259765625 118.8502502441406 C 10.46200561523438 130.5791625976562 6.651947021484375 142.8531951904297 4.0985107421875 155.33154296875 C 1.47845458984375 168.1353454589844 0.149993896484375 181.3135070800781 0.149993896484375 194.5 C 0.149993896484375 207.6864929199219 1.47845458984375 220.8646545410156 4.0985107421875 233.66845703125 C 6.651947021484375 246.1467437744141 10.46200561523438 258.4208374023438 15.42291259765625 270.1497497558594 C 20.29379272460938 281.6657409667969 26.32254028320312 292.77294921875 33.34185791015625 303.1628112792969 C 40.29446411132812 313.4540100097656 48.27899169921875 323.1314086914062 57.07379150390625 331.9262084960938 C 65.86856079101562 340.720947265625 75.54595947265625 348.70556640625 85.837158203125 355.6581420898438 C 96.22705078125 362.6773986816406 107.3342590332031 368.7062072753906 118.8502502441406 373.5770568847656 C 130.5791625976562 378.5379638671875 142.8531951904297 382.3480529785156 155.33154296875 384.9014892578125 C 168.1353454589844 387.5215454101562 181.3135070800781 388.8500061035156 194.5 388.8500061035156 C 207.6864929199219 388.8500061035156 220.8646545410156 387.5215454101562 233.66845703125 384.9014892578125 C 246.1467437744141 382.3480529785156 258.4208374023438 378.5379638671875 270.1497497558594 373.5770568847656 C 281.6657409667969 368.7062072753906 292.77294921875 362.6773986816406 303.1628112792969 355.6581420898438 C 313.4540100097656 348.70556640625 323.1314086914062 340.720947265625 331.9262084960938 331.9262084960938 C 340.720947265625 323.1314086914062 348.70556640625 313.4540100097656 355.6581420898438 303.1628112792969 C 362.6773986816406 292.77294921875 368.7062072753906 281.6657409667969 373.5770568847656 270.1497497558594 C 378.5379638671875 258.4208374023438 382.3480529785156 246.1467437744141 384.9014892578125 233.66845703125 C 387.5215454101562 220.8646545410156 388.8500061035156 207.6864929199219 388.8500061035156 194.5 C 388.8500061035156 181.3135070800781 387.5215454101562 168.1353454589844 384.9014892578125 155.33154296875 C 382.3480529785156 142.8531951904297 378.5379638671875 130.5791625976562 373.5770568847656 118.8502502441406 C 368.7062072753906 107.3342590332031 362.6773986816406 96.22705078125 355.6581420898438 85.837158203125 C 348.70556640625 75.54595947265625 340.720947265625 65.86856079101562 331.9262084960938 57.07379150390625 C 323.1314086914062 48.27899169921875 313.4540100097656 40.29446411132812 303.1628112792969 33.34185791015625 C 292.77294921875 26.32254028320312 281.6657409667969 20.29379272460938 270.1497497558594 15.42291259765625 C 258.4208374023438 10.46200561523438 246.1467437744141 6.651947021484375 233.66845703125 4.0985107421875 C 220.8646545410156 1.47845458984375 207.6864929199219 0.149993896484375 194.5 0.149993896484375 M 194.5 0 C 301.9193420410156 0 389 87.08059692382812 389 194.5 C 389 301.9193420410156 301.9193420410156 389 194.5 389 C 87.08059692382812 389 0 301.9193420410156 0 194.5 C 0 87.08059692382812 87.08059692382812 0 194.5 0 Z"/>
+      </g>
+    </g>
+    <g class="cls-25" transform="matrix(1, 0, 0, 1, 0, 0)">
+      <circle id="Mint_green_ellipse-2" data-name="Mint green ellipse" class="cls-6" cx="329" cy="329" r="329" transform="translate(179 -469)"/>
+    </g>
+    <g id="_50px_arrow" data-name="50px arrow">
+      <text id="_50px" data-name="50px" class="cls-7" transform="translate(1095 376) rotate(-21)"><tspan x="0" y="0">50px</tspan></text>
+      <line id="Line_1" data-name="Line 1" class="cls-8" x2="56.133" y2="148.873" transform="translate(1097.092 283.627)"/>
+      <path id="Path_2" data-name="Path 2" class="cls-9" d="M0,0,9.743,9.743H0Z" transform="translate(1103.815 282.006) rotate(114)"/>
+    </g>
+    <g id="_50px_arrow-2" data-name="50px arrow">
+      <line id="Line_2" data-name="Line 2" class="cls-8" x2="54.443" y2="144.392" transform="translate(1398.639 405.353) rotate(90)"/>
+      <text id="_50px-2" data-name="50px" class="cls-7" transform="translate(1317 458) rotate(-21)"><tspan x="0" y="0">50px</tspan></text>
+      <path id="Path_3" data-name="Path 3" class="cls-9" d="M0,0,9.45,9.45H0Z" transform="translate(1400.21 411.874) rotate(-156)"/>
+    </g>
+    <text id="_50px-3" data-name="50px" class="cls-10" transform="translate(1780 956) rotate(-21)"><tspan x="0" y="0">50px</tspan></text>
+    <g id="_90_angle" data-name="90 angle">
+      <g id="Path_9" data-name="Path 9" class="cls-11" transform="matrix(-0.643, 0.766, -0.766, -0.643, 505.582, 1148.25)">
+        <path class="cls-19" d="M0,0H8.719V8.719A8.719,8.719,0,0,1,0,0Z"/>
+        <path class="cls-22" d="M 1.064481258392334 1.000000953674316 C 1.513707160949707 4.458227634429932 4.260532855987549 7.205053329467773 7.718759536743164 7.654279232025146 L 7.718759536743164 1.000000953674316 L 1.064481258392334 1.000000953674316 M 0 9.5367431640625e-07 L 8.718759536743164 9.5367431640625e-07 L 8.718759536743164 8.71876049041748 C 3.903519630432129 8.71876049041748 0 4.815240859985352 0 9.5367431640625e-07 Z"/>
+      </g>
+      <text id="_90_" data-name="90° " class="cls-12" transform="matrix(0.629, -0.777, 0.777, 0.629, 488.901, 1168.059)"><tspan x="-10.989" y="0">90° </tspan></text>
+      <g id="Group_1" data-name="Group 1" transform="matrix(0.875, -0.485, 0.485, 0.875, 466.04, 1126.841)">
+        <line id="Line_4" data-name="Line 4" class="cls-13" x2="14.667" y2="38.9" transform="translate(1.605 1.459)"/>
+        <path id="Path_10" data-name="Path 10" class="cls-9" d="M0,0,2.546,2.546H0Z" transform="translate(3.361 1.036) rotate(114)"/>
+      </g>
+      <g id="Group_2" data-name="Group 2" transform="matrix(0.94, 0.342, -0.342, 0.94, 513.402, 1118.234)">
+        <line id="Line_4-2" data-name="Line 4" class="cls-13" x1="13.894" y2="36.85" transform="translate(0 1.382)"/>
+        <path id="Path_10-2" data-name="Path 10" class="cls-9" d="M0,2.412,2.412,0H0Z" transform="matrix(0.407, 0.914, -0.914, 0.407, 14.434, 0)"/>
+      </g>
+    </g>
+    <g id="_110_angle" data-name="110 angle">
+      <path id="Path_8" data-name="Path 8" class="cls-14" d="M0,0,58.953,156.354" transform="translate(1738.386 881.467)"/>
+      <path id="Path_12" data-name="Path 12" class="cls-15" d="M0,0,58.953,156.354" transform="matrix(-0.454, 0.891, -0.891, -0.454, 1962.779, 1055.54)"/>
+      <path id="Path_7" data-name="Path 7" class="cls-16" d="M0,0,10.233,10.233H0Z" transform="translate(1745.447 879.766) rotate(114)"/>
+      <g id="Path_11" data-name="Path 11" class="cls-17" transform="translate(1816.292 1031.247) rotate(159)">
+        <path class="cls-19" d="M.223-9.5,20.646,0V20.486c-6.385,0-13.948-5.229-17.813-12.638C.045,2.509.223-4.519.223-9.5Z"/>
+        <path class="cls-23" d="M 2.226940155029297 -6.359893798828125 C 2.268636703491211 -2.077468872070312 2.57774543762207 3.037449836730957 4.606315612792969 6.922873973846436 C 6.31812572479248 10.20408344268799 8.924785614013672 13.18269348144531 11.94609546661377 15.31002426147461 C 14.15821743011475 16.86759948730469 16.4752082824707 17.89301681518555 18.64640617370605 18.29483795166016 L 18.64640617370605 1.275609970092773 L 2.226940155029297 -6.359893798828125 M 0.2231864929199219 -9.497365951538086 L 20.64640617370605 -6.67572021484375e-06 L 20.64640617370605 20.48605346679688 C 14.26093578338623 20.48605346679688 6.698346138000488 15.25682353973389 2.83311653137207 7.847953796386719 C 0.0454254150390625 2.508533477783203 0.2231864929199219 -4.519105911254883 0.2231864929199219 -9.497365951538086 Z"/>
+      </g>
+      <text id="_110_" data-name="110° " class="cls-18" transform="translate(1784.271 1043.441) rotate(-20)"><tspan x="-13.218" y="0">110° </tspan></text>
+    </g>
+  </g>
+</svg>
