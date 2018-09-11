@@ -1,10 +1,38 @@
-.navbar-light {
-  background-color: rgba(0, 0, 0, 0);
-}
-
 body {
+  font-family: "Open Sans";
   background: url(./Resources/WholeMockupEdit.svg);
   background-size: cover;
+}
+
+h1 {
+  font-family: "Segoe UI", "Roboto", "Open Sans", "Helvetica Neue", sans;
+}
+
+.navbar-light .navbar-nav .nav-link:hover, .navbar-light .navbar-brand:hover {
+  transition: 0.25s ease;
+  color: #FF7979;
+  text-shadow: 0px 3px 6px rgba(255, 121, 121, 0.5);
+}
+
+.navbar {
+  padding: 1rem 3rem 1rem 4rem;
+}
+
+.navbar-light .navbar-brand {
+  color: rgba(0, 0, 0, 0.5);
+  font-size: 1.75em;
+}
+
+.navbar-light .navbar-nav {
+  font-size: 1.2em;
+}
+.navbar-light .navbar-nav .nav-link {
+  padding-left: 25px;
+  padding-right: 25px;
+}
+.active {
+  color: #FF7979;
+  text-shadow: 0px 3px 6px rgba(255, 121, 121, 0.5);
 }
 
 /*# sourceMappingURL=main.css.map */
