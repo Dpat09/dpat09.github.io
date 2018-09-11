@@ -1,7 +1,16 @@
+%defColorAndFont
+    color: rgba(0,0,0,.55)
+    font-family: 'Open Sans', 'Helvetica Neue', sans
+
 body
     font-family: 'Open Sans'
-    background: url(./Resources/WholeMockupEdit.svg)
+    background: url(./Resources/bkgWithShapes.svg)
     background-size: cover
 
 h1
-    font-family: 'Segoe UI', 'Roboto', 'Open Sans', 'Helvetica Neue', sans
+    @extend %defColorAndFont
+    font-size: 3.25em
+
+h2
+    @extend %defColorAndFont
+    font-size: 2.25em
